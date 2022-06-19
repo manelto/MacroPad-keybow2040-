@@ -14,6 +14,10 @@ In any case, I think it can be used and understood by any programming neophyte a
 
 I hope that this development can help other people to use the Pimoroni Keybow2040 for their projects. It would have been very useful to me if someone had developed it before me.
 
+To build the keyboard I used a 3D printer. Models can be found at
+https://www.printables.com/model/228327-keybow2040-macropad-with-display-and-encoder
+
+
 Oh, and sorry if I've made a lot of mistakes in the English writing. I have needed the help of google translate.
 
 _______________________________________________________________________________________________________________________________
@@ -34,3 +38,7 @@ He cambiado algo el código para adaptarlo tanto a los nuevos elementos (pantall
 En cualquier caso, creo que puede ser utilizado y entendido por cualquier neofito en programación y modificado por cualquier programador con unos mínimos conocimientos de Python. 
 
 Espero que este desarrollo pueda ayudar a otras personas a utilizar el Keybow2040 de Pimoroni para sus proyectos. A mí me hubiera sido de mucha utilizar si alguien lo hubiera desarrollado antes que yo.
+
+Para construir el teclado he utilizado una Impresora 3D. Los modelos pueden encontrarse en
+https://www.printables.com/model/228327-keybow2040-macropad-with-display-and-encoder
+
