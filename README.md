@@ -34,5 +34,3 @@ He cambiado algo el código para adaptarlo tanto a los nuevos elementos (pantall
 En cualquier caso, creo que puede ser utilizado y entendido por cualquier neofito en programación y modificado por cualquier programador con unos mínimos conocimientos de Python. 
 
 Espero que este desarrollo pueda ayudar a otras personas a utilizar el Keybow2040 de Pimoroni para sus proyectos. A mí me hubiera sido de mucha utilizar si alguien lo hubiera desarrollado antes que yo.
-
-Oh, y perdonad si he cometido muchos errores en el escrito en inglés. He necesitado la ayuda de google translate.
