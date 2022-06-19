@@ -15,3 +15,21 @@ In any case, I think it can be used and understood by any programming neophyte a
 I hope that this development can help other people to use the Pimoroni Keybow2040 for their projects. It would have been very useful to me if someone had developed it before me.
 
 Oh, and sorry if I've made a lot of mistakes in the English writing. I have needed the help of google translate.
+
+
+Now, in Spanish...
+Este proyecto constituia un reto para mí. Quería utilizar una placa Keybow2040 de Pimoroni con una pantalla OLED (para mostrar los  modos de teclados posibles así como la combinación de teclas activas) y un codificador rotatorio para seleccionar las configuraciones de teclados disponibles.
+
+Tras varias pruebas, pensé que me sería imposible añadir nuevos dispositivos mediante los conectores QT Stemma. De hecho, en la crítica que hicé al Keybow2040 en la página de Pimoroni, puse una valoración baja al dispositivo, precisamente por mi creencía de que, a pesar de la existencia de pines para conectar dispositivos I2C, no era posible hacerlo. He de corregir esa critica reconociendo mi error y aumentando la puntuación. 
+
+Y también he de valorar la contestación que me dieron desde Pimoroni que sirvió para guiarme a encontrar la solución y, finalmente, realizar el proyecto que aquí se presenta.
+
+El código principal esta basado en uno de los ejemplos de @Gadgetoid (https://github.com/pimoroni/keybow2040-circuitpython). En particular el ejemplo hid-keypad-fifteen-layers.py (https://github.com/pimoroni/keybow2040-circuitpython/blob/master/examples/hid-keypad-fifteen-layers.py).
+
+He cambiado algo el código para adaptarlo tanto a los nuevos elementos (pantalla OLED y codificador rotatorio) como para hacerlo más cercano a mi manera de programar.
+
+En cualquier caso, creo que puede ser utilizado y entendido por cualquier neofito en programación y modificado por cualquier programador con unos mínimos conocimientos de Python. 
+
+Espero que este desarrollo pueda ayudar a otras personas a utilizar el Keybow2040 de Pimoroni para sus proyectos. A mí me hubiera sido de mucha utilizar si alguien lo hubiera desarrollado antes que yo.
+
+Oh, y perdonad si he cometido muchos errores en el escrito en inglés. He necesitado la ayuda de google translate.
