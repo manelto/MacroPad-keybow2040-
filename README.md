@@ -16,8 +16,11 @@ I hope that this development can help other people to use the Pimoroni Keybow204
 
 Oh, and sorry if I've made a lot of mistakes in the English writing. I have needed the help of google translate.
 
+_______________________________________________________________________________________________________________________________
 
 Now, in Spanish...
+
+
 Este proyecto constituia un reto para mí. Quería utilizar una placa Keybow2040 de Pimoroni con una pantalla OLED (para mostrar los  modos de teclados posibles así como la combinación de teclas activas) y un codificador rotatorio para seleccionar las configuraciones de teclados disponibles.
 
 Tras varias pruebas, pensé que me sería imposible añadir nuevos dispositivos mediante los conectores QT Stemma. De hecho, en la crítica que hicé al Keybow2040 en la página de Pimoroni, puse una valoración baja al dispositivo, precisamente por mi creencía de que, a pesar de la existencia de pines para conectar dispositivos I2C, no era posible hacerlo. He de corregir esa critica reconociendo mi error y aumentando la puntuación. 
